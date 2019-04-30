@@ -10,7 +10,7 @@ pool:
   vmImage: 'Ubuntu-16.04'
 
 steps:
-- script:echo Manikandan!
+- script: echo Manikandan, world!
   displayName: 'Run a one-line script'
 
 - script: |
